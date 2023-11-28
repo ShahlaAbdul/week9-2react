@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+.esasbasket{
+    border: 1px solid black;
+    padding: 40px 0px;
+}
+
+.fetch_elements{
+    padding: 20px 0px;
+   
+}
